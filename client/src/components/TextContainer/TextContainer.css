@@ -25,6 +25,17 @@
 .textContainer h1 {
   margin-bottom: 0px;
 }
+.footer{
+  
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  margin-left: 22%;
+  
+}
 
 @media (min-width: 320px) and (max-width: 1200px) {
   .textContainer {
